@@ -148,7 +148,7 @@
                 variant="outlined"
               ></v-btn
               ><br />
-              <span class="text-caption">Your Street SYO,yourArea Dream </span
+              <span class="text-caption">12 Rue des Olivers 53200 La Roche-Neuville</span
               ><br />
               <v-btn
                 icon="fas fa-phone-alt"
@@ -157,8 +157,7 @@
                 variant="outlined"
               ></v-btn
               ><br />
-              <span class="text-caption">00235 - 6521 </span> <br />
-              <span class="text-caption">00235 - 6521 </span> <br />
+              <span class="text-caption">0606060606</span> <br />
               <v-btn
                 icon="fas fa-envelope"
                 color=""
@@ -166,8 +165,7 @@
                 variant="outlined"
               ></v-btn
               ><br />
-              <span class="text-caption">aaeideapro@gmail.com </span> <br />
-              <span class="text-caption">aaeideapro@gmail.com </span> <br />
+              <span class="text-caption">jane.doe@gmail.com</span> <br />
             </div>
           </v-col>
           <v-col cols="12" sm="8">
